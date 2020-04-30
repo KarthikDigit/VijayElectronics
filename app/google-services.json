@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "704457816720",
+    "firebase_url": "https://vijayelectronics-9e7b9.firebaseio.com",
+    "project_id": "vijayelectronics-9e7b9",
+    "storage_bucket": "vijayelectronics-9e7b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704457816720:android:5a551defdb335117f47615",
+        "android_client_info": {
+          "package_name": "com.vijayelectronics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704457816720-qi5n2ch0euv2l1rvu3kimibpm63l25n7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZBW-POdqzbmNfn0QifMk5vKLVqkgdvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704457816720-qi5n2ch0euv2l1rvu3kimibpm63l25n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/df1/Documents/woocommerce/codecanyon/AndroidWoocommerce/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-mdpi-v4/values-xlarge-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/df1/.gradle/caches/transforms-2/files-2.1/9f1e0c41c39e14f37725fa87cee8b30c/res/values-xlarge-mdpi-v4/values-xlarge-mdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,106,156,200",
+                        "endColumns": "50,49,43,42",
+                        "endOffsets": "101,151,195,238"
+                    }
+                }
+            ]
+        }
+    ]
+}
